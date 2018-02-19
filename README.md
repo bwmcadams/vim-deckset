@@ -50,7 +50,7 @@ to specifically support all of the Deckset Markdown, including LaTeX
 recognition inside formula blocks (If you have the optional Formula plugin
 for Deckset).
 
-Brilliantly, Tim Pop's Markdown code supports replacing the code inside of
+Brilliantly, Tim Pope's Markdown code supports replacing the code inside of
 fenced code blocks  with proper Syntax highlighting (it seems the sub-highlighting only shows up on _some_ colorschemes). This works only for languages set in the global
 setting (placed in your `~/.vimrc`) `g:markdown_fenced_languages`. To add
 support for Scala code highlighting, add the following:
